@@ -1,3 +1,3 @@
 [workspace]
-members = ["stack_swap"]
+members = [ "fibers","stack_swap"]
 resolver = "2"

@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "fibers"
+version = "0.1.0"
+
+[[package]]
 name = "stack_swap"
 version = "0.1.0"
